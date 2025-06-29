@@ -1,6 +1,8 @@
-public enum SIGN {
-    PLUS,
-    MINUS,
-    MULTIPLY,
-    DIVIDE
+switch (sign) {
+    case MULTIPLY:
+        return arg1 * arg2;
+    case DIVIDE:
+        return arg1 / arg2;
+    default:
+        break;
 }
