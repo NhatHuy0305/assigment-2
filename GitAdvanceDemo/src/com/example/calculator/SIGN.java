@@ -1,5 +1,6 @@
-package com.example.calculator;
-
 public enum SIGN {
-	PLUS, MINUS, MULTIPLY, DIVIDE
+    PLUS,
+    MINUS,
+    MULTIPLY,
+    DIVIDE
 }
