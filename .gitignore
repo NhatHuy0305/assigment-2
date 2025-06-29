@@ -1,0 +1,20 @@
+# Bỏ qua metadata của Eclipse
+.metadata/
+*.class
+bin/
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven / Gradle
+target/
+build/
+
+# Java
+*.class
+*.jar
